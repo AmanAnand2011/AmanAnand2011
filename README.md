@@ -20,8 +20,8 @@
 
 <h2 align="center">Connect with me</h2>
 <div align="center">
-<a href="https://www.linkedin.com/in/sunil-kumar-b17997229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil" height="30" width="50" /></a>
-<a href="https://www.codechef.com/users/sunilkumar_922" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sunil" height="30" width="50" /></a>
-<a href="https://www.hackerrank.com/profile/sunilkumarsaxen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sunil" height="30" width="50" /></a>
-<a href="https://leetcode.com/sunilkumar_9142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunil" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/aman-anand-a2422b256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil" height="30" width="50" /></a>
+<a href="https://www.codechef.com/users/aman3519" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sunil" height="30" width="50" /></a>
+<a href="https://www.geeksforgeeks.org/user/amananand20111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sunil" height="30" width="50" /></a>
+<a href="https://leetcode.com/u/aman_anand24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunil" height="30" width="50" /></a>
 </div>
